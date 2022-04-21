@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FootwearInventory</string>
+    <string name="empty_view_title_text">Looks Empty!!</string>
+    <string name="empty_view_subtitle_text">Drop Some Sneakers</string>
+
+    <string name="no_image_url">android.resource://com.example.footwearinventory/drawable/product_image</string>
+    <string name="editor_activity_title_edit_inventory">Edit inventory</string>
+    <string name="editor_insert_stock_successful">stock saved</string>
+    <string name="editor_insert_stock_failed">stock not saved</string>
+    <string name="editor_update_stock_failed">update failed</string>
+    <string name="editor_update_stock_successful">update successful</string>
+    <string name="detail_activity_title_new_stock_unit">add a inventory</string>
+    <string name="submit">submit</string>
+    <string name="editor_delete_stock_failed">error deleting a stock</string>
+    <string name="editor_delete_stock_successful">delete successful</string>
+    <string name="delete_dialog_msg">delete this stock?</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+    <string name="unsaved_changes_dialog_msg">discard changes and quit editing?</string>
+    <string name="discard">discard</string>
+    <string name="keep_editing">keep editing</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="select_image">SELECT IMAGE</string>
+    <string name="no_image">"no images"</string>
+    <string name="err_external_storage_permissions">need permissions to get product photo</string>
+
+</resources>
